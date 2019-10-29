@@ -5,5 +5,6 @@ class Dog
 end
 
 class Person
+  adele_goldberg=Person.new
   
 end
