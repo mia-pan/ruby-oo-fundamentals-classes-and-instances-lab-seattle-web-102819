@@ -1,3 +1,3 @@
-class dog
+class Dog
   fido=dog.new 
 end
