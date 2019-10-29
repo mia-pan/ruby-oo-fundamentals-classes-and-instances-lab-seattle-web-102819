@@ -4,3 +4,6 @@ class Dog
   lassie=Dog.new
 end
 
+class Person
+  
+end
